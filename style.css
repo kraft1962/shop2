@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: darkblue;
+    padding: 10px;
+    border-radius: 8px;
+    color: Grey;
+}
+header a {
+    margin: 12px;
+}
+h1 {
+    text-align: center;
+    color: orange;
+    border: 5px solid rgb(133, 71, 184);
+    border-radius: 19px;
+}
+footer p {
+    border: 5px solid darkgreen;
+    margin: 0px;
+    padding: 5px;
+
+}
+footer {
+    border: 5px solid darkgreen;
+}
+nav {
+    border: 3px solid #00FFFF;
+    text-align: center;
+    padding: 5px;
+}
+nav a {
+    padding: 30px;
+    text-decoration: none;
+    margin: 15px;
+}
+.xp {
+    border: 3px solid Indigo;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 5px;
+}
+h2 {
+    color: blue;
+}
+img {
+    border: 1px solid orange;
+    border-radius: 10px;
+}
+body {
+    font-size: 20px;
+    margin: 15px;
+}
+a {
+    color: orange;
+}
